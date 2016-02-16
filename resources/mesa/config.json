@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"tamanio": {
+			"name": "tamanio",
+			"type": "number",
+			"typeLabel": "number",
+			"required": true,
+			"id": "tamanio",
+			"order": 0
+		},
+		"numero": {
+			"name": "numero",
+			"type": "number",
+			"typeLabel": "number",
+			"required": true,
+			"id": "numero",
+			"order": 1
+		}
+	}
+}

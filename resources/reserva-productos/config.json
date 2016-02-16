@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"idReserva": {
+			"name": "idReserva",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "idReserva",
+			"order": 0
+		},
+		"idProducto": {
+			"name": "idProducto",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "idProducto",
+			"order": 1
+		},
+		"cantidad": {
+			"name": "cantidad",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "cantidad",
+			"order": 2
+		}
+	}
+}

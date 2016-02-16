@@ -1,0 +1,53 @@
+{
+	"type": "Collection",
+	"properties": {
+		"idCliente": {
+			"name": "idCliente",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "idCliente",
+			"order": 0
+		},
+		"idMesa": {
+			"name": "idMesa",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "idMesa",
+			"order": 1
+		},
+		"inicio": {
+			"name": "inicio",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "inicio",
+			"order": 2
+		},
+		"fin": {
+			"name": "fin",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "fin",
+			"order": 3
+		},
+		"comensales": {
+			"name": "comensales",
+			"type": "number",
+			"typeLabel": "number",
+			"required": true,
+			"id": "comensales",
+			"order": 4
+		},
+		"activa": {
+			"name": "activa",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "activa",
+			"order": 5
+		}
+	}
+}

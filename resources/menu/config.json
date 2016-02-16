@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"fecha": {
+			"name": "fecha",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "fecha",
+			"order": 0
+		},
+		"precio": {
+			"name": "precio",
+			"type": "number",
+			"typeLabel": "number",
+			"required": true,
+			"id": "precio",
+			"order": 1
+		}
+	}
+}

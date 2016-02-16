@@ -1,0 +1,29 @@
+{
+	"type": "UserCollection",
+	"properties": {
+		"nombre": {
+			"name": "nombre",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "nombre",
+			"order": 0
+		},
+		"apellidos": {
+			"name": "apellidos",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "apellidos",
+			"order": 1
+		},
+		"telefono": {
+			"name": "telefono",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "telefono",
+			"order": 2
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"idMenu": {
+			"name": "idMenu",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "idMenu",
+			"order": 0
+		},
+		"idProducto": {
+			"name": "idProducto",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "idProducto",
+			"order": 1
+		}
+	}
+}
