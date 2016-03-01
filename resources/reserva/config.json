@@ -17,20 +17,20 @@
 			"id": "idMesa",
 			"order": 1
 		},
-		"inicio": {
-			"name": "inicio",
+		"fecha": {
+			"name": "fecha",
 			"type": "string",
 			"typeLabel": "string",
 			"required": true,
-			"id": "inicio",
+			"id": "fecha",
 			"order": 2
 		},
-		"fin": {
-			"name": "fin",
+		"hora": {
+			"name": "hora",
 			"type": "string",
 			"typeLabel": "string",
 			"required": true,
-			"id": "fin",
+			"id": "hora",
 			"order": 3
 		},
 		"comensales": {
