@@ -43,8 +43,8 @@
 		},
 		"activa": {
 			"name": "activa",
-			"type": "string",
-			"typeLabel": "string",
+			"type": "boolean",
+			"typeLabel": "boolean",
 			"required": true,
 			"id": "activa",
 			"order": 5
