@@ -9,12 +9,12 @@
 			"id": "idMenu",
 			"order": 0
 		},
-		"idProducto": {
-			"name": "idProducto",
+		"idPlato": {
+			"name": "idPlato",
 			"type": "string",
 			"typeLabel": "string",
 			"required": true,
-			"id": "idProducto",
+			"id": "idPlato",
 			"order": 1
 		}
 	}
